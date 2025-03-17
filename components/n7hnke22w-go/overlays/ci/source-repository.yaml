@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: n7hnke22w-go-repository
+spec:
+  url: https://github.com/rhtap-qe-jsmid/n7hnke22w-go
